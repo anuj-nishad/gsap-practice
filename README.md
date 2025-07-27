@@ -1,6 +1,6 @@
 # React + Vite
 
-Just learning code
+Just learning code of gsap ........ It's my first time I am practicing this ....loving it
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
